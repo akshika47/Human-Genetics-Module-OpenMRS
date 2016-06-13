@@ -1,0 +1,2 @@
+org\openmrs\module\basicexample\extension\html\AdminList.class
+org\openmrs\module\basicexample\web\controller\hguManageController.class

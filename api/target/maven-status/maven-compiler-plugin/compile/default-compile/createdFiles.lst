@@ -1,0 +1,6 @@
+org\openmrs\module\basicexample\api\db\hguDAO.class
+org\openmrs\module\basicexample\api\impl\hguServiceImpl.class
+org\openmrs\module\basicexample\api\hguService.class
+org\openmrs\module\basicexample\hguActivator.class
+org\openmrs\module\basicexample\hgu.class
+org\openmrs\module\basicexample\api\db\hibernate\HibernatehguDAO.class
